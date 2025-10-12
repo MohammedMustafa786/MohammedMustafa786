@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Mohammed Mustaqeem Uddin</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Mustafa</h1>
 <h3 align="center">Data Enthusiast | Aspiring Data Analyst</h3>
 
 <p align="center">

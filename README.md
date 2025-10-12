@@ -11,7 +11,7 @@
   <a href="https://www.instagram.com/mohammed_mustafa793/" target="_blank" title="Instagram">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="www.linkedin.com/in/mohammd-mustafa-851385365" target="_blank" title="LinkedIn">
+  <a href="https://linkedin.com/in/mohammd-mustafa-851385365" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:mustafa.dev9948@gmail.com" target="_blank" title="Email">

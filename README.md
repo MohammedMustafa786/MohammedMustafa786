@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mohammed Mustafa</h1>
-<h3 align="center">Data Enthusiast | Aspiring Data Analyst</h3>
+<h3 align="center">Data Enthusiast | Aspiring Data Scientist</h3>
 
 <p align="center">
   <em>Exploring the world of data with curiosity as my fuel — passionately pursuing patterns, insights, and real-world impact.</em>

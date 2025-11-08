@@ -14,7 +14,7 @@
 
 ##  About Me
 
--  I'm currently exploring **Data Analysis & Business Intelligence**
+-  Exploring the edges of data science—from machine learning to real-world impact.**
 -  I'm learning **Python, SQL, and Data Visualization**
 -  I enjoy transforming raw data into actionable insights
 -  Passionate about solving real-world problems through data
